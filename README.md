@@ -3,12 +3,12 @@
 A modern and fully responsive education landing page built using **HTML** and **CSS**.
 This project includes a responsive navigation bar, hero section, programme cards, student statistics, events, activities, registration form, feedback section, and contact footer.
 
-🔗 Live Demo:
+🔗 Live Demo: https://reffilescollagewebsiteclone.netlify.app/
 ---
 
 ## Features
 
-* Fully Responsive Design
+* Responsive Design
 * Fixed Navigation Bar
 * Hero / Welcome Section
 * Programme Cards Layout
@@ -18,7 +18,7 @@ This project includes a responsive navigation bar, hero section, programme cards
 * Registration Form
 * Feedback/Testimonial Section
 * Contact Footer
-* Mobile, Tablet, and Desktop Support
+* Mobile and Desktop Support
 
 ---
 
@@ -29,16 +29,6 @@ This project includes a responsive navigation bar, hero section, programme cards
 * Flexbox
 * CSS Grid
 * Media Queries
-
----
-
-## Responsive Breakpoints
-
-| Device       | Screen Size         |
-| ------------ | ------------------- |
-| Mobile       | `max-width: 480px`  |
-| Tablet       | `max-width: 768px`  |
-| Small Laptop | `max-width: 1024px` |
 
 ---
 
